@@ -7,7 +7,7 @@
   <a href="mailto:victoroow@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/victor-augusto-ferreira-dos-santos/" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-augusto-ferreira-dos-santos-108167356?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </p>
