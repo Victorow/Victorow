@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=500&color=FFFFFF&center=true&width=700&lines=Ol%C3%A1+sou+o+Victor+Augusto+%F0%9F%91%8B" alt="Typing SVG" />
-  <h3>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor BackEnd</h3>
+  <h3>Desenvolvedor FullStack</h3>
 </div>
 
 <p align="center">
