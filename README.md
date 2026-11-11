@@ -18,7 +18,9 @@
 
 ---
 ### Sobre Mim
-> Olá! Sou Victor, desenvolvedor de software com experiência em aplicações web full-stack e foco em backend. Trabalho com Java, Spring Boot, React e bancos de dados como PostgreSQL e AWS, desenvolvendo sistemas robustos, seguros e escaláveis, https://victors.codes.
+> Desenvolvedor Full Stack com mais de 1 ano de experiência, atuando do banco de dados à interface em produtos SaaS
+em produção (web, mobile e agentes de IA). Stack principal: TypeScript, React, Node.js, Python e PostgreSQL, com
+experiência prática em IA generativa (agentes, RAG e MCP). https://victors.codes.
 
 ---
 
